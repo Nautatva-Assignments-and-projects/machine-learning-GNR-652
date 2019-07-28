@@ -10,4 +10,4 @@
 
 1) gradient descent
 2) closed form
-3) MLE ?
+3) MLE
